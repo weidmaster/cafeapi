@@ -167,7 +167,7 @@ Thank you
 - [Robson V. Leite](https://github.com/robsonvleite) (Developer)
 - [Eduardo W. Barijan](https://github.com/weidmaster) (Developer)
 - [UpInside Treinamentos](https://github.com/robsonvleite) (Team)
-- [All Contributors](https://github.com/robsonvleite/uploader/contributors) (This Rock)
+- [All Contributors](https://github.com/robsonvleite/cafeapi/contributors) (This Rock)
 
 ## License
 
