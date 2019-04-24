@@ -1,10 +1,11 @@
 {
-  "name": "robsonvleite/cafeapi",
+  "name": "weidmaster/cafeapi",
   "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
   "keywords": [
     "FSPHP",
     "UpInside",
     "Robson V. Leite",
+    "Eduardo W. Barijan",
     "SaaS",
     "PHP",
     "Full Stack"
@@ -16,6 +17,11 @@
       "name": "Robson V. Leite",
       "email": "cursos@upinside.com.br",
       "role": "Developer"
+    },
+    {
+      "name": "Eduardo W. Barijan",
+      "email": "eduwb88@gmail.com",
+      "role": "Developer"
     }
   ],
   "require": {
@@ -25,7 +31,7 @@
   },
   "autoload": {
     "psr-4": {
-      "RobsonVLeite\\CafeApi\\": "src"
+      "WeidMaster\\CafeApi\\": "src"
     }
   }
 }

@@ -2,7 +2,7 @@
 require __DIR__ . "/assets/config.php";
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Me;
+use WeidMaster\CafeApi\Me;
 
 $me = new Me(
     "localhost/fsphp/cafeapi/",
